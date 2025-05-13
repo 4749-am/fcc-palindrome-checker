@@ -41,6 +41,7 @@ button {
   border: 1px solid var(--black-color);
   border-radius: 5px;
   background-color: var(--yellow-color);
+  margin-bottom: 10px;
 }
 
 #palindrome-definition {
