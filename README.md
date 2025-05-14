@@ -1,5 +1,6 @@
 # fcc-Palindrome ( 🌐 version ) 
 
+![Capture](https://github.com/user-attachments/assets/1d4cdd67-bf6f-49ec-b5b9-ade9b4b5515d)
 
 
 🔗 **Live Website**: [fcc-palindrome-checker](https://4749-am.github.io/fcc-palindrome-checker/)
